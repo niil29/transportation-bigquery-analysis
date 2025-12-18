@@ -54,8 +54,6 @@ This follows a **star-schema approach** for readable and scalable analytics.
 
 ### Advanced Analysis
 - Average speed & congestion detection
-- Percentile analysis (P50, P90, P99)
-- Anomaly detection (outlier trips)
 - High-value route identification
 - Rolling 7-day demand trends
 - Trip segmentation (short, medium, long)
