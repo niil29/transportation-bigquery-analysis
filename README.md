@@ -64,7 +64,6 @@ This follows a **star-schema approach** for readable and scalable analytics.
 - CTEs
 - Views
 - Window functions
-- Percentile analysis (`APPROX_QUANTILES`)
 - Fact–dimension joins
 - Time-series analysis
 - Cost-aware querying principles
