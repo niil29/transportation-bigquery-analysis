@@ -78,4 +78,3 @@ FROM `sqlprojectsda.transportation.NYC_trips`
 ;
 
 
-
