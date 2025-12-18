@@ -97,6 +97,14 @@ This follows a **star-schema approach** for readable and scalable analytics.
 
 ---
 
+## 📂 Repository Structure
+- `sql/01_data_profiling.sql` – Initial data exploration
+- `sql/02_data_cleaning.sql` – Cleaning & transformation logic
+- `sql/03_core_analysis.sql` – Business analysis queries
+- `sql/04_advanced_analysis.sql` – Advanced analytics & window functions
+
+---
+
 ## 👤 Author
 Indranil Mukherjee  
 (Data Analyst / SQL & BigQuery)
