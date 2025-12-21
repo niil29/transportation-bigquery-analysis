@@ -19,7 +19,7 @@ FROM `bigquery-public-data.new_york_taxi_trips.tlc_yellow_trips_2016`
 
 
 
-# DATA QUALITI CHECKS
+# DATA QUALITY CHECKS
 
 # INVALID PASSENGERS COUNT
 
